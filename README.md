@@ -1,4 +1,4 @@
-# Crude-Oil-Forecasting
+# -Demand-Forecasting
 Forecasting the Monthly Demand using various time series methods
 1. Holt-Winters 
 2. ARIMA
