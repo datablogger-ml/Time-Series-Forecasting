@@ -3,7 +3,7 @@
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is to get familiar with Time Series Forecasting which is very helpful in univariate analysis, and is extensively used in Demand Forecasting. Time series forecasting uses the information in a time series (perhaps with additional information) to forecast future values of that series.
+The purpose of this project is to get familiar with Time Series Forecasting which is very helpful in univariate analysis, and is extensively used in Demand Forecasting. Time series forecasting uses the information in a time series to forecast future values of that series.
 
 ### Methods Used
 * Time Series Forecasting
