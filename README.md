@@ -29,6 +29,10 @@ It is expressed as an index level relative to a base year (currently 2012) ie. t
 
 ### Methods
 
+#### 1. Holt-Winters (TES)
+#### 2. ARIMA
+#### 3. SARIMA
+
 
 ## Needs of this project
 
