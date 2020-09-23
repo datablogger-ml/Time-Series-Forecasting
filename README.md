@@ -3,7 +3,7 @@
 #### -- Project Status: Active
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to get familiar with Time Series Forecasting which is very helpful in univariate analysis, and is extensively used in Demand Forecasting. Time series forecasting uses the information in a time series (perhaps with additional information) to forecast future values of that series.
 
 ### Methods Used
 * Time Series Forecasting
