@@ -21,7 +21,7 @@ The purpose of this project is to get familiar with Time Series Forecasting whic
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ### Data
-The industrial production index (IPI) is a monthly economic indicator measuring real output in the manufacturing,mining,electric and gas industries, relative to a base year. It also measures capacity, an estimate of the production levels that could be sustainably maintained and capacity utilization.
+The industrial production index (IPI) is a monthly economic indicator measuring real output in the manufacturing, mining, electric and gas industries, relative to a base year. It also measures capacity, an estimate of the production levels that could be sustainably maintained and capacity utilization.
 
 It is expressed as an index level relative to a base year (currently 2012) ie. the percentage change in production relative to the base year (2012). In this specific problem, we would be looking at the ice cream and frozen desert IPI.
 
