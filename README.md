@@ -39,7 +39,9 @@ ARIMA (Autoregressive Independent Moving Average) is a combination of 3 models:
 * <strong>MA(q)</strong> Moving Average - a model that uses the dependency between an observation and a residual error from a moving average model applied to lagged observations.
 
 #### 3. SARIMA
+Seasonal Autoregrssive Independent Moving Average:
 
+* Where ARIMA accepts the parameters (p,d,q), SARIMA accepts an <em>additional</em> set of parameters (P,D,Q)m that specifically describe the seasonal components of the model. Here P, D and Q represent the seasonal regression, differencing and moving average coefficients, and m represents the number of data points (rows) in each seasonal cycle.
 
 ## Needs of this project
 
