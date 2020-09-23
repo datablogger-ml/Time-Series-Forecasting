@@ -32,6 +32,12 @@ It is expressed as an index level relative to a base year (currently 2012) ie. t
 
 #### 1. Holt-Winters (TES)
 #### 2. ARIMA
+
+ARIMA (Autoregressive Independent Moving Average) is a combination of 3 models:
+* <strong>AR(p)</strong> Autoregression - a regression model that utilizes the dependent relationship between a current observation and observations over a previous period.
+* <strong>I(d)</strong> Integration - uses differencing of observations (subtracting an observation from an observation at the previous time step) in order to make the time series stationary
+* <strong>MA(q)</strong> Moving Average - a model that uses the dependency between an observation and a residual error from a moving average model applied to lagged observations.
+
 #### 3. SARIMA
 
 
