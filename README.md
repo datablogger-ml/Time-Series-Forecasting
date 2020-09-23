@@ -27,6 +27,9 @@ It is expressed as an index level relative to a base year (currently 2012) ie. t
 
 <a href='https://fred.stlouisfed.org/series/IPN31152N'>Download Link</a>
 
+### Methods
+
+
 ## Needs of this project
 
 - frontend developers
