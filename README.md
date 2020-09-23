@@ -10,6 +10,7 @@ The purpose of this project is to get familiar with Time Series Forecasting whic
 * Machine Learning
 * Hyper-Parameter Optimization
 * Data Visualization
+* Inferential Statistics
 
 ### Technologies
 * Python
